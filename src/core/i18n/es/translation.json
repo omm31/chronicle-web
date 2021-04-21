@@ -1,0 +1,151 @@
+{
+  "intro_text": "¡Gracias por tormarse el tiempo de completar el cuestionario! En primer lugar, le vamos a pedir que describa todo lo que hizo su hijo ayer, comenzando por cuando su hijo se despertó ayer por la mañana y terminando por cuando se acostó por la noche. Luego, le preguntaremos por cómo durmió su hijo anoche. Responda a las preguntas lo mejor que pueda. Al final de la encuesta, podrá realizar cambios si lo desea.",
+  "choose_format": "Para comenzar, seleccione por favor el formato de reloj que prefiera.",
+  "clock_formats": [
+    "Formato de reloj de 12 horas",
+    "Formato de reloj de 24 horas"
+  ],
+  "day_of_week": "Nos gustaría que pensara cómo es un día de su hijo y que completara este Diario de Uso del Tiempo pensando en qué hizo ayer. ¿Qué día de la semana fue ayer?",
+  "weekday_options": [
+    "Lunes",
+    "Martes",
+    "Miércoles",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "typical_day": "An important part of this project is to find out how children spend their time during the week. Was yesterday a typical {{day}} for you and your child? A non-typical day would include a school closing, being on vacation, or being home sick.",
+  "typical_day_choices": [
+    "Yes, yesterday was typical.",
+    "No, yesterday was non-typical."
+  ],
+  "yes": "Sí",
+  "no": "No",
+  "non_typical_day": "What made yesterday a non-typical day?",
+  "choose_applicable": "Please choose all that apply",
+  "non_typical_day_reasons": [
+    "My child was sick.",
+    "School/childcare was closed.",
+    "The weather was bad and we could not go outside.",
+    "We were traveling.",
+    "We had visitors."
+  ],
+  "button_back": "Atrás",
+  "button_next": "Siguiente",
+  "button_submit": "Enviar",
+  "button_cancel": "Cancel",
+  "button_close": "Close",
+  "weekday": "weekday",
+  "day_start_time": "¿A qué hora se despertó su hijo ayer por la mañana? Por favor, piense en cuando se despertó totalmente su hijo para comenzar el día, no tanto si se despertó en mitad de la noche y se volvió a dormir.",
+  "day_end_time": "¿A qué hora se quedó dormido su hijo la pasada noche? Por favor, piense en cuando su hijo se quedó dormido por primera vez por la noche. Más tarde en el cuestionario le preguntaremos por cuántas veces se despertó su hijo en mitad de la noche.",
+  "today_wakeup_time": "¿A qué hora se despertó su hijo esta mañana?",
+  "default_time": "Por favor, introduzca la hora escribiendo en el recuadro de abajo (ej., 07:00 AM) or dando a click en el botón del reloj.",
+  "primary_activities": {
+    "childcare": "Ir al colegio/guardería",
+    "napping": "Echarse la siesta/dormir",
+    "eating": "Comer/beber",
+    "media_use": "Ver pantallas (vídeos, apps, chat,etc.)",
+    "reading": "Leer o escuchar una historia (de un libro en papel, ebook, audiolibro, etc...)",
+    "indoor": "Jugar dentro de casa",
+    "outdoor": "Jugar al aire libre",
+    "grooming": "Baño/aseo",
+    "other": "Hacer otras actividades en casa (cocinar, otras tareas, etc.)",
+    "outdoors": "Hacer actividades fuera de la casa (recados, viajes, etc.)"
+  },
+  "primary_activity": "¿Qué comenzó a hacer su hijo a las [hora señalada en Q4a)??",
+  "next_activity": "¿Qué comenzó a hacer su hijo a las [hora señalada en Q7) después de haber terminado [actividad señalada en Q6a/b]?",
+  "default_end_time": "When did the selected activity end?",
+  "activity_end_time": "Cuándo paró su hijo de [actividad señalada en Q6a/b]?",
+  "contextual_text": "Ahora, hablemos de lo que hizo su hijo mientras [actividad señalada en Q6a / b] a las [hora señalada en Q4a / Q7]",
+  "caregiver": "¿Con quién estaba su hijo cuando él o ella estaban  [actividad señalada en Q6a / b]?",
+  "caregiver_options": [
+    "Padre/madre o figura parental",
+    "Un abuelo/a",
+    "Otro adulto",
+    "Hermano",
+    "Otro niño"
+  ],
+  "bg_tv_day": "¿Había televisión de fondo mientras su hijo estaba [inserte la actividad de la Q6a / b]? Por ejemplo, tal vez uno de los padres estaba viendo la televisión mientras su hijo hacía otra cosa en la habitación.",
+  "bg_audio_day": "¿Había audio de fondo (p. ej., música, podcast) mientras su hijo estaba [insertar actividad de Q6a / b]? Por ejemplo, tal vez uno de los padres estaba escuchando música mientras su hijo hacía otra cosa en la habitación.",
+  "adult_media": "¿Estaba algún adulto usando un dispositivo móvil (teléfono, tableta, computadora portátil) mientras su hijo estaba [insertar actividad de Q6a / b]? Por ejemplo, tal vez un padre estaba enviando mensajes de texto con el móvil mientras su hijo hacía otra cosa en la habitación.": [
+    "No",
+    "Sí, parte del tiempo",
+    "Sí, la mitad del tiempo",
+    "Sí, la mayor parte del tiempo",
+    "Sí, todo el tiempo",
+    "No lo sé"
+  ],
+  "other_activity": "¿Su hijo hacía alguna otra cosa mientras  [actividad señalada en Q6a / b]",
+  "dont_know": "Don't know",
+  "secondary_activity": "De acuerdo, ¿qué más hizo su hijo mientras [actividad señalada en Q6a / b]?  Elija todas las que correspondan.",
+  "book_type": "Específicamente, ¿qué tipo(s) de libro leyó su hijo?",
+  "book_title": "¿Cuál era el nombre del libro?  Si no se acuerda exactamente del nombre, puede darnos una descripción general (ej., era un libro de unicornios.).",
+  "media_activity": "Específicamente, ¿qué hizo su hijo mientras usaba las pantallas? Elija todas las que correspondan.",
+  "media_age": "¿Describiría el programa (p. ej., programa de televisión, aplicación del móvil) como un contenido que se dirige a niños de la edad de su hijo, para niños mayores, para niños más pequeños o para adultos?",
+  "media_name": "¿Cuál era el nombre del programa (ej., nombre de show o de la aplicación)? Si no se acuerda exactamente del nombre, puede darnos una descripción general (ej., era una aplicación de dibujar, una película de unicornios, etc...)?",
+  "media_age_options": [
+    "Para niños de la edad de mi hijo",
+    "Para niños mayores",
+    "Para niños más pequeños",
+    "Para adultos",
+    "No lo sé"
+  ],
+  "media_activity_options": [
+    "Veía contenido de vídeos (TV, películas, YouTube, etc.)",
+    "Veía contenido de vídeos (TV, películas, YouTube, etc.)",
+    "Videollamadas (Facetime, Zoom, etc.)",
+    "Se comunicó con otros de otra manera (habló por teléfono, ayudó a escribir un mensaje de texto, etc.)",
+    "Creó contenido (grabó un vídeo, tomó fotos, etc.)",
+    "Buscó información en Internet"
+  ],
+  "book_type_options": [
+    "Libro impreso (de papel, cartón, etc.)",
+    "Libro electrónico (eBook)",
+    "Audiolibro"
+  ],
+  "no_one": "Ninguno",
+  "bg_tv_night": "¿Estaba la televisión encendidad en la habitación mientras su hijo dormía por la noche?",
+  "bg_audio_night": "¿Había música sonando u otro tipo de audio en la habitación mientras su hijo dormía?",
+  "sleep_pattern": "Anoche, ¿su hijo siguió el típico patrón de dormir?",
+  "sleep_arrangement": "Anoche, ¿cómo durmió su hijo?",
+  "sleep_arrangement_options": [
+    "En su propia cuna/cama, en una habituación separada (no la comparte con otros)",
+    "En una cuna/cama en la habitación de los padres",
+    "En cuna/cama en una habitación compartida con otros hermanos",
+    "Colecho en la cama de los padres",
+    "Duerme en una cama con otro hermano"
+  ],
+  "wake_up_count": "Anoche, ¿cuántas veces se despertó su hijo en medio de la noche?",
+  "wake_up_count_options": [
+    "No sé despertó",
+    "Una vez",
+    "2 veces",
+    "3 veces",
+    "4 veces",
+    "5 o más veces",
+    "No lo sé"
+  ],
+  "non_typical_sleep_pattern": "¿Qué pasó para que el patrón de dormir de su hijo fuera atípico?",
+  "non_typical_sleep_options": [
+    "Mi hijo estaba enfermo.",
+    "Estábamos viajando.",
+    "Tuvimos visita en casa."
+  ],
+  "other": "Otros:",
+  "error_required": "Es una pregunta obligatoria [frase que aparece al participante si no responde a una pregunta obligatoria]",
+  "error_min_items": "Por favor selecione al menos una respuesta",
+  "error_invalid_end": "La finalización de la actividad debería ser después [señalar hora] [La frase aparece a los participantes]",
+  "error_invalid_bedtime": "Bed time should be after {{time}}",
+  "error_end_past_bedtime": "La última actividad del día debe terminar a las {{time}} ya que indicaste que el niño se fue a la cama en ese momento",
+  "summary_title": "Aquí hay un resumen de cómo su hijo pasó el día. Asegúrese de que esta información sea correcta antes de enviar la encuesta.",
+  "button_edit": "Editar",
+  "child_woke_up": "El niño de despertó",
+  "sleeping": "Dormir",
+  "change_language_warning": "¿Está seguro que quiere cambiar el idioma? Esto deshará todos los cambios que ha hecho hasta el momento.",
+  "change_language": "Cambio de idioma",
+  "error_submit": "Ha ocurrido un error mietras intentaba enviar el encuesta. Por favor, inténtelo más tarde.",
+  "submission_error_title": "Error en el envío",
+  "submission_success": "Gracias por completar la encuesta del Diario de Uso del Tiempo. Sus respuestas han sido registradas.",
+  "submission_success_title": "Su encuesta se ha enviado correctamente!"
+}
